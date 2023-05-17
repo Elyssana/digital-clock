@@ -4,12 +4,24 @@ Este é um relógio digital simples criado com HTML, CSS e JavaScript.
 
 ## Capturas de tela
 
-<p float="left">
-  <img src="screencaptures/screencapture-digital-clock-desktop.png" alt="Desktop version
-" width="400" />
-  <p></p>
-  <img src="screencaptures/screencapture-digital-clock-mobile.png" alt="Mobile version" width="200" />
-</p>
+<table>
+  <tr>
+    <td>
+      Desktop version
+    </td>
+    <td>
+      Mobile version
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="screencaptures/screencapture-digital-clock-desktop.png" width=550 >  
+    </td>
+    <td>
+      <img src="screencaptures/screencapture-digital-clock-mobile.png" width=250 > 
+    </td>
+  </tr>
+</table>
 
 ## Como usar
 
